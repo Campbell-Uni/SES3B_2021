@@ -1,0 +1,578 @@
+[
+ {
+   "Species": "Roach",
+   "Weight": 272,
+   "Length1": 25,
+   "Length2": 27,
+   "Length3": 30.6,
+   "Height": 8.568,
+   "Width": 4.7736
+ },
+ {
+   "Species": "Perch",
+   "Weight": 218,
+   "Length1": 25,
+   "Length2": 26.5,
+   "Length3": 28,
+   "Height": 7.168,
+   "Width": 4.144
+ },
+ {
+   "Species": "Perch",
+   "Weight": 300,
+   "Length1": 25.2,
+   "Length2": 27.3,
+   "Length3": 28.7,
+   "Height": 8.323,
+   "Width": 5.1373
+ },
+ {
+   "Species": "Perch",
+   "Weight": 260,
+   "Length1": 25.4,
+   "Length2": 27.5,
+   "Length3": 28.9,
+   "Height": 7.1672,
+   "Width": 4.335
+ },
+ {
+   "Species": "Perch",
+   "Weight": 265,
+   "Length1": 25.4,
+   "Length2": 27.5,
+   "Length3": 28.9,
+   "Height": 7.0516,
+   "Width": 4.335
+ },
+ {
+   "Species": "Perch",
+   "Weight": 250,
+   "Length1": 25.4,
+   "Length2": 27.5,
+   "Length3": 28.9,
+   "Height": 7.2828,
+   "Width": 4.5662
+ },
+ {
+   "Species": "Whitefish",
+   "Weight": 306,
+   "Length1": 25.6,
+   "Length2": 28,
+   "Length3": 30.8,
+   "Height": 8.778,
+   "Width": 4.6816
+ },
+ {
+   "Species": "Perch",
+   "Weight": 250,
+   "Length1": 25.9,
+   "Length2": 28,
+   "Length3": 29.4,
+   "Height": 7.8204,
+   "Width": 4.2042
+ },
+ {
+   "Species": "Bream",
+   "Weight": 363,
+   "Length1": 26.3,
+   "Length2": 29,
+   "Length3": 33.5,
+   "Height": 12.73,
+   "Width": 4.4555
+ },
+ {
+   "Species": "Bream",
+   "Weight": 430,
+   "Length1": 26.5,
+   "Length2": 29,
+   "Length3": 34,
+   "Height": 12.444,
+   "Width": 5.134
+ },
+ {
+   "Species": "Bream",
+   "Weight": 450,
+   "Length1": 26.8,
+   "Length2": 29.7,
+   "Length3": 34.7,
+   "Height": 13.6024,
+   "Width": 4.9274
+ },
+ {
+   "Species": "Bream",
+   "Weight": 500,
+   "Length1": 26.8,
+   "Length2": 29.7,
+   "Length3": 34.5,
+   "Height": 14.1795,
+   "Width": 5.2785
+ },
+ {
+   "Species": "Perch",
+   "Weight": 300,
+   "Length1": 26.9,
+   "Length2": 28.7,
+   "Length3": 30.1,
+   "Height": 7.5852,
+   "Width": 4.6354
+ },
+ {
+   "Species": "Bream",
+   "Weight": 390,
+   "Length1": 27.6,
+   "Length2": 30,
+   "Length3": 35,
+   "Height": 12.67,
+   "Width": 4.69
+ },
+ {
+   "Species": "Bream",
+   "Weight": 450,
+   "Length1": 27.6,
+   "Length2": 30,
+   "Length3": 35.1,
+   "Height": 14.0049,
+   "Width": 4.8438
+ },
+ {
+   "Species": "Perch",
+   "Weight": 320,
+   "Length1": 27.8,
+   "Length2": 30,
+   "Length3": 31.6,
+   "Height": 7.6156,
+   "Width": 4.7716
+ },
+ {
+   "Species": "Bream",
+   "Weight": 475,
+   "Length1": 28.4,
+   "Length2": 31,
+   "Length3": 36.2,
+   "Height": 14.2628,
+   "Width": 5.1042
+ },
+ {
+   "Species": "Bream",
+   "Weight": 500,
+   "Length1": 28.5,
+   "Length2": 30.7,
+   "Length3": 36.2,
+   "Height": 14.2266,
+   "Width": 4.9594
+ },
+ {
+   "Species": "Whitefish",
+   "Weight": 540,
+   "Length1": 28.5,
+   "Length2": 31,
+   "Length3": 34,
+   "Height": 10.744,
+   "Width": 6.562
+ },
+ {
+   "Species": "Bream",
+   "Weight": 500,
+   "Length1": 28.7,
+   "Length2": 31,
+   "Length3": 36.2,
+   "Height": 14.3714,
+   "Width": 4.8146
+ },
+ {
+   "Species": "Bream",
+   "Weight": 500,
+   "Length1": 29.1,
+   "Length2": 31.5,
+   "Length3": 36.4,
+   "Height": 13.7592,
+   "Width": 4.368
+ },
+ {
+   "Species": "Bream",
+   "Weight": 600,
+   "Length1": 29.4,
+   "Length2": 32,
+   "Length3": 37.2,
+   "Height": 14.9544,
+   "Width": 5.1708
+ },
+ {
+   "Species": "Bream",
+   "Weight": 600,
+   "Length1": 29.4,
+   "Length2": 32,
+   "Length3": 37.2,
+   "Height": 15.438,
+   "Width": 5.58
+ },
+ {
+   "Species": "Bream",
+   "Weight": 340,
+   "Length1": 29.5,
+   "Length2": 32,
+   "Length3": 37.3,
+   "Height": 13.9129,
+   "Width": 5.0728
+ },
+ {
+   "Species": "Roach",
+   "Weight": 390,
+   "Length1": 29.5,
+   "Length2": 31.7,
+   "Length3": 35,
+   "Height": 9.485,
+   "Width": 5.355
+ },
+ {
+   "Species": "Pike",
+   "Weight": 200,
+   "Length1": 30,
+   "Length2": 32.3,
+   "Length3": 34.8,
+   "Height": 5.568,
+   "Width": 3.3756
+ },
+ {
+   "Species": "Bream",
+   "Weight": 700,
+   "Length1": 30.4,
+   "Length2": 33,
+   "Length3": 38.3,
+   "Height": 14.8604,
+   "Width": 5.2854
+ },
+ {
+   "Species": "Bream",
+   "Weight": 700,
+   "Length1": 30.4,
+   "Length2": 33,
+   "Length3": 38.5,
+   "Height": 14.938,
+   "Width": 5.1975
+ },
+ {
+   "Species": "Perch",
+   "Weight": 514,
+   "Length1": 30.5,
+   "Length2": 32.8,
+   "Length3": 34,
+   "Height": 10.03,
+   "Width": 6.018
+ },
+ {
+   "Species": "Bream",
+   "Weight": 610,
+   "Length1": 30.9,
+   "Length2": 33.5,
+   "Length3": 38.6,
+   "Height": 15.633,
+   "Width": 5.1338
+ },
+ {
+   "Species": "Bream",
+   "Weight": 650,
+   "Length1": 31,
+   "Length2": 33.5,
+   "Length3": 38.7,
+   "Height": 14.4738,
+   "Width": 5.7276
+ },
+ {
+   "Species": "Bream",
+   "Weight": 575,
+   "Length1": 31.3,
+   "Length2": 34,
+   "Length3": 39.5,
+   "Height": 15.1285,
+   "Width": 5.5695
+ },
+ {
+   "Species": "Bream",
+   "Weight": 685,
+   "Length1": 31.4,
+   "Length2": 34,
+   "Length3": 39.2,
+   "Height": 15.9936,
+   "Width": 5.3704
+ },
+ {
+   "Species": "Bream",
+   "Weight": 620,
+   "Length1": 31.5,
+   "Length2": 34.5,
+   "Length3": 39.7,
+   "Height": 15.5227,
+   "Width": 5.2801
+ },
+ {
+   "Species": "Pike",
+   "Weight": 300,
+   "Length1": 31.7,
+   "Length2": 34,
+   "Length3": 37.8,
+   "Height": 5.7078,
+   "Width": 4.158
+ },
+ {
+   "Species": "Bream",
+   "Weight": 680,
+   "Length1": 31.8,
+   "Length2": 35,
+   "Length3": 40.6,
+   "Height": 15.4686,
+   "Width": 6.1306
+ },
+ {
+   "Species": "Bream",
+   "Weight": 725,
+   "Length1": 31.8,
+   "Length2": 35,
+   "Length3": 40.9,
+   "Height": 16.36,
+   "Width": 6.0532
+ },
+ {
+   "Species": "Bream",
+   "Weight": 700,
+   "Length1": 31.9,
+   "Length2": 35,
+   "Length3": 40.5,
+   "Height": 16.2405,
+   "Width": 5.589
+ },
+ {
+   "Species": "Bream",
+   "Weight": 720,
+   "Length1": 32,
+   "Length2": 35,
+   "Length3": 40.6,
+   "Height": 16.3618,
+   "Width": 6.09
+ },
+ {
+   "Species": "Perch",
+   "Weight": 556,
+   "Length1": 32,
+   "Length2": 34.5,
+   "Length3": 36.5,
+   "Height": 10.2565,
+   "Width": 6.3875
+ },
+ {
+   "Species": "Perch",
+   "Weight": 840,
+   "Length1": 32.5,
+   "Length2": 35,
+   "Length3": 37.3,
+   "Height": 11.4884,
+   "Width": 7.7957
+ },
+ {
+   "Species": "Bream",
+   "Weight": 714,
+   "Length1": 32.7,
+   "Length2": 36,
+   "Length3": 41.5,
+   "Height": 16.517,
+   "Width": 5.8515
+ },
+ {
+   "Species": "Pike",
+   "Weight": 300,
+   "Length1": 32.7,
+   "Length2": 35,
+   "Length3": 38.8,
+   "Height": 5.9364,
+   "Width": 4.3844
+ },
+ {
+   "Species": "Bream",
+   "Weight": 850,
+   "Length1": 32.8,
+   "Length2": 36,
+   "Length3": 41.6,
+   "Height": 16.8896,
+   "Width": 6.1984
+ },
+ {
+   "Species": "Bream",
+   "Weight": 1000,
+   "Length1": 33.5,
+   "Length2": 37,
+   "Length3": 42.6,
+   "Height": 18.957,
+   "Width": 6.603
+ },
+ {
+   "Species": "Whitefish",
+   "Weight": 800,
+   "Length1": 33.7,
+   "Length2": 36.4,
+   "Length3": 39.6,
+   "Height": 11.7612,
+   "Width": 6.5736
+ },
+ {
+   "Species": "Perch",
+   "Weight": 685,
+   "Length1": 34,
+   "Length2": 36.5,
+   "Length3": 39,
+   "Height": 10.881,
+   "Width": 6.864
+ },
+ {
+   "Species": "Perch",
+   "Weight": 700,
+   "Length1": 34,
+   "Length2": 36,
+   "Length3": 38.3,
+   "Height": 10.6091,
+   "Width": 6.7408
+ },
+ {
+   "Species": "Perch",
+   "Weight": 700,
+   "Length1": 34.5,
+   "Length2": 37,
+   "Length3": 39.4,
+   "Height": 10.835,
+   "Width": 6.2646
+ },
+ {
+   "Species": "Perch",
+   "Weight": 690,
+   "Length1": 34.6,
+   "Length2": 37,
+   "Length3": 39.3,
+   "Height": 10.5717,
+   "Width": 6.3666
+ },
+ {
+   "Species": "Pike",
+   "Weight": 300,
+   "Length1": 34.8,
+   "Length2": 37.3,
+   "Length3": 39.8,
+   "Height": 6.2884,
+   "Width": 4.0198
+ },
+ {
+   "Species": "Bream",
+   "Weight": 920,
+   "Length1": 35,
+   "Length2": 38.5,
+   "Length3": 44.1,
+   "Height": 18.0369,
+   "Width": 6.3063
+ },
+ {
+   "Species": "Bream",
+   "Weight": 955,
+   "Length1": 35,
+   "Length2": 38.5,
+   "Length3": 44,
+   "Height": 18.084,
+   "Width": 6.292
+ },
+ {
+   "Species": "Pike",
+   "Weight": 430,
+   "Length1": 35.5,
+   "Length2": 38,
+   "Length3": 40.5,
+   "Height": 7.29,
+   "Width": 4.5765
+ },
+ {
+   "Species": "Pike",
+   "Weight": 345,
+   "Length1": 36,
+   "Length2": 38.5,
+   "Length3": 41,
+   "Height": 6.396,
+   "Width": 3.977
+ },
+ {
+   "Species": "Bream",
+   "Weight": 925,
+   "Length1": 36.2,
+   "Length2": 39.5,
+   "Length3": 45.3,
+   "Height": 18.7542,
+   "Width": 6.7497
+ },
+ {
+   "Species": "Perch",
+   "Weight": 900,
+   "Length1": 36.5,
+   "Length2": 39,
+   "Length3": 41.4,
+   "Height": 11.1366,
+   "Width": 7.4934
+ },
+ {
+   "Species": "Perch",
+   "Weight": 650,
+   "Length1": 36.5,
+   "Length2": 39,
+   "Length3": 41.4,
+   "Height": 11.1366,
+   "Width": 6.003
+ },
+ {
+   "Species": "Perch",
+   "Weight": 820,
+   "Length1": 36.6,
+   "Length2": 39,
+   "Length3": 41.3,
+   "Height": 12.4313,
+   "Width": 7.3514
+ },
+ {
+   "Species": "Perch",
+   "Weight": 850,
+   "Length1": 36.9,
+   "Length2": 40,
+   "Length3": 42.3,
+   "Height": 11.9286,
+   "Width": 7.1064
+ },
+ {
+   "Species": "Perch",
+   "Weight": 900,
+   "Length1": 37,
+   "Length2": 40,
+   "Length3": 42.5,
+   "Height": 11.73,
+   "Width": 7.225
+ },
+ {
+   "Species": "Perch",
+   "Weight": 1015,
+   "Length1": 37,
+   "Length2": 40,
+   "Length3": 42.4,
+   "Height": 12.3808,
+   "Width": 7.4624
+ },
+ {
+   "Species": "Perch",
+   "Weight": 820,
+   "Length1": 37.1,
+   "Length2": 40,
+   "Length3": 42.5,
+   "Height": 11.135,
+   "Width": 6.63
+ },
+ {
+   "Species": "Whitefish",
+   "Weight": 1000,
+   "Length1": 37.3,
+   "Length2": 40,
+   "Length3": 43.5,
+   "Height": 12.354,
+   "Width": 6.525
+ }
+]
